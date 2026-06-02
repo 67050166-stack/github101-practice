@@ -21,7 +21,9 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
-| Rapeepat | Team 3in1 | developer  | [example evidence](docs/evidence/example-student.md) | - |
+| Rapeepat | Team 3in1 | developer  | [example evidence](docs/evidence/example-student.md) | กำลังทำ |
+
+
 
 ---
 
